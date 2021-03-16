@@ -45019,7 +45019,7 @@ p=k.c
 o=T.k5(m,p*0.1,m)
 k=k.d
 n=k*0.2
-return M.aC(m,T.o8(H.d([r,o,M.aC(m,T.o8(H.d([M.aC(m,m,C.b3,m,m,2,m,m,n),T.k5(m,20,m),D.a_h("ANTOPOLIS","June 2020 - August 2020 (3 months)",p,"antopolis.JPG","Flutter Developer Intern",k,"https://theantopolis.com"),T.k5(m,20,m),M.aC(m,m,C.b3,m,m,2,m,m,n),T.k5(m,20,m),D.a_h("SHABASH FAKIBAJ","February 2020 - July 2020 (6 months)",p,"shabashfakibaj.JPG","App Developer",k,"https://www.shabashfakibaj.com/")],q),C.bS,C.pc),m,m,m,m,m,m,m)],q),C.bS,C.cJ),m,m,new S.bD(C.j,m,m,s,m,m,C.w),m,m,new V.aD(j,l*0.1,j,0),1/0)}}
+return M.aC(m,T.o8(H.d([r,o,M.aC(m,T.o8(H.d([M.aC(m,m,C.b3,m,m,2,m,m,n),T.k5(m,20,m),D.a_h("ANTOPOLIS","June 2020 - August 2020 (3 months)",p,"https://i.ibb.co/Z1T0DZG/antopolis.jpg","Flutter Developer Intern",k,"https://theantopolis.com"),T.k5(m,20,m),M.aC(m,m,C.b3,m,m,2,m,m,n),T.k5(m,20,m),D.a_h("SHABASH FAKIBAJ","February 2020 - July 2020 (6 months)",p,"https://i.ibb.co/MBPkPQj/shabashfakibaj.jpg","App Developer",k,"https://www.shabashfakibaj.com/")],q),C.bS,C.pc),m,m,m,m,m,m,m)],q),C.bS,C.cJ),m,m,new S.bD(C.j,m,m,s,m,m,C.w),m,m,new V.aD(j,l*0.1,j,0),1/0)}}
 G.im.prototype={
 aA:function(){return new G.BV(C.k)}}
 G.BV.prototype={
@@ -45097,7 +45097,7 @@ k=this.a
 o=T.k5(m,k.c*0.1,m)
 k=k.d*0.3
 n=k*0.3
-return M.aC(m,T.qp(H.d([r,M.aC(m,T.o8(H.d([q,o,M.aC(m,T.qp(H.d([M.aC(m,new F.lB("https://i.ibb.co/swqd6HB/logo1.png",m),m,m,m,n,m,m,n),M.aC(m,new F.lB("logo2.png",m),m,m,m,n,m,m,n),M.aC(m,new F.lB("logo3.png",m),m,m,m,n,m,m,n)],p),C.fN,C.dU),m,m,m,m,m,m,k)],p),C.d9,C.cJ),m,m,m,m,m,m,m)],p),C.bS,C.dU),m,m,new S.bD(C.j,m,m,s,m,m,C.w),m,m,new V.aD(j,l*0.1,j,0),1/0)}}
+return M.aC(m,T.qp(H.d([r,M.aC(m,T.o8(H.d([q,o,M.aC(m,T.qp(H.d([M.aC(m,new F.lB("https://i.ibb.co/swqd6HB/logo1.png",m),m,m,m,n,m,m,n),M.aC(m,new F.lB("https://i.ibb.co/PrGzSLD/logo3.png",m),m,m,m,n,m,m,n),M.aC(m,new F.lB("https://i.ibb.co/7vtmn0r/logo2.png",m),m,m,m,n,m,m,n)],p),C.fN,C.dU),m,m,m,m,m,m,k)],p),C.d9,C.cJ),m,m,m,m,m,m,m)],p),C.bS,C.dU),m,m,new S.bD(C.j,m,m,s,m,m,C.w),m,m,new V.aD(j,l*0.1,j,0),1/0)}}
 D.lD.prototype={
 N:function(a,b){throw H.b(P.ai("implemented internally"))},
 aX:function(a){var s=($.aJ+1)%16777215
