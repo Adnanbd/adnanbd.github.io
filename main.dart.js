@@ -47913,7 +47913,7 @@ U.AA.prototype={}
 X.n9.prototype={}
 F.yU.prototype={
 I:function(a,b){var s=null,r=H.c([new T.p1(new Y.oi(D.ad7(),s,F.aib(),t.d3),s,s,s,t.tz)],t.jD)
-return Y.ad6(new S.qw(new V.t7(s),"Flutter Demo",X.a6j(s,C.mA,X.aeC()),!1,s),r)}}
+return Y.ad6(new S.qw(new V.t7(s),"Adnan/s Portfolio",X.a6j(s,C.mA,X.aeC()),!1,s),r)}}
 D.ku.prototype={
 wm:function(a){var s=this.b
 s.px(a,C.o8)
